@@ -1,0 +1,11 @@
+build:
+  version: 1.3
+
+loans:
+  message: "Welcome to eazyBank Loans related Local APIs"
+  contactDetails:
+    name: "sk Afridi"
+    email: "afridi.sk@gmail.com"
+  onCallSupport:
+    - 91 7047070366
+    - 91 7432869195

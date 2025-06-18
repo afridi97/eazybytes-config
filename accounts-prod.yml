@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank account related prod APIs"
+  contactDetails:
+    name: "Afridi - admin"
+    email: "anisuddinafridi@gmail.com"
+  onCallSupport:
+    - (91)7047070366
+    - (555)555-1234
