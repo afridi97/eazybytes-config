@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank account related qa APIs"
   contactDetails:
     name: "Afridi - tester"
-    email: "anisuddinafridi@gmail.com"
+    email: "{cipher}500d0a87aed441d7cea121e06f713de8ebb59e07d5cde28e64dfb96374fc150ee947a3a8b6ca662519b4699dc2f8fdad"
   onCallSupport:
     - (91)7047070366
     - (555)555-1234
