@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank account related prod APIs"
+  message: "Welcome to EazyBank account related docker APIs"
   contactDetails:
     name: "Afridi - admin"
     email: "{cipher}500d0a87aed441d7cea121e06f713de8ebb59e07d5cde28e64dfb96374fc150ee947a3a8b6ca662519b4699dc2f8fdad"
