@@ -2,7 +2,7 @@ build:
   version: 1.3
 
 cards:
-  message: "Welcome to eazyBank cards related prod git APIs"
+  message: "Welcome to eazyBank cards related prod git2 APIs"
   contactDetails:
     name: "sk Afridi"
     email: "{cipher}500d0a87aed441d7cea121e06f713de8ebb59e07d5cde28e64dfb96374fc150ee947a3a8b6ca662519b4699dc2f8fdad"
